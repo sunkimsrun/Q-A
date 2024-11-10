@@ -1,0 +1,4 @@
+1.The @import directive in Sass allows you to split your CSS into multiple files, making your code more modular and manageable. By importing other Sass files, you can organize code into separate files (e.g., variables, mixins, partials) and reuse them across projects.
+2. Sass variables store values that can be reused throughout your stylesheets. This makes it easy to maintain consistency and update values in one place.
+-Variables are defined using the $ symbol, followed by a name and a value.
+3.In Sass, strings are sequences of characters enclosed in quotes (single or double). Strings are often used with variables or within functions and operations, allowing dynamic manipulation of content, such as setting font families, background images, or custom messages.

@@ -1,0 +1,6 @@
+1. HTML tables are used to display data in a tabular format, similar to rows and columns in a spreadsheet.
+2. HTML links allow users to navigate from one page to another or to different parts of the same page.
+3. HTML lists are used to group a collection of related items.
+There are two main types:
+Ordered List (<ol>): Displays items in a numbered list.
+Unordered List (<ul>): Displays items in a bullet-pointed list.

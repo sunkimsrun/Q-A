@@ -1,0 +1,6 @@
+1. CSS can be used to style HTML tables, making them visually appealing and improving readability.
+-Using CSS, you can customize aspects like borders, spacing, background colors, text alignment, and hover effects.
+2. CSS provides various properties to style fonts, allowing control over font family, size, weight, style, and line height.
+For example, the font-family property sets the font type, and font-size adjusts the size.
+3. CSS comments are used to add notes within your CSS code, which can help explain sections or make the code more readable. 
+-Comments are added by wrapping text inside /* and */.
